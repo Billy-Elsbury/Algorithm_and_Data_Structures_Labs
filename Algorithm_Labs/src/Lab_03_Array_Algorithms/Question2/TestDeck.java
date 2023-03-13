@@ -1,4 +1,4 @@
-package Card_Question;
+package Lab_03_Array_Algorithms.Question2;
 
 public class TestDeck {
     public static void main(String[] args) {
