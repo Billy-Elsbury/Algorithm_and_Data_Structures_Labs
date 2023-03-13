@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Algorithm_and_Data_Structures_Labs" target="" />
+      <module name="card_question" target="" />
+      <module name="Lab_07_Merge_Sort" target="" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
