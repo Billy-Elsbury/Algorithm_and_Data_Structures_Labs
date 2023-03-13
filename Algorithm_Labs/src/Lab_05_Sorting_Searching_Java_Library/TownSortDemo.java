@@ -75,7 +75,7 @@ public class TownSortDemo {
         }
 
 
-        // Sort the ArrayList by name to fix search
+        // Sort the arrayList by name to fix search
         townsArrayList.sort(new Comparator<>() {
             public int compare(Town t1, Town t2) {
                 return t1.getName().compareTo(t2.getName());
@@ -94,6 +94,7 @@ public class TownSortDemo {
         } else {
             System.out.println("Town " + searchKey + " not found");
         }
+
 
 
     }
